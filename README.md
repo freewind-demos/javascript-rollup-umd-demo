@@ -1,13 +1,11 @@
-JavaScript Backend Hello World Demo
-===================================
+JavaScript Rollup to AMD Demo
+=============================
+
+Rollup使用AMD模块系统编译JS代码
 
 ```
 npm install
 npm run demo
 ```
 
-It will print:
-
-```
-Hello, Javascript
-```
+将生成`bundle.js`文件
