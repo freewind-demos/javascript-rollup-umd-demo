@@ -1,7 +1,7 @@
-JavaScript Rollup to AMD Demo
+JavaScript Rollup to UMD Demo
 =============================
 
-Rollup使用AMD模块系统编译JS代码
+Rollup使用UMD模块系统编译JS代码
 
 ```
 npm install

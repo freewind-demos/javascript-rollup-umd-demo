@@ -2,7 +2,10 @@ export default {
     input: 'main.js',
     output: {
         file: 'bundle.js',
-        format: 'amd',
+        format: 'umd',
+        globals: {
+            'lodash': '_'
+        }
     },
     external: ['lodash']
 }
